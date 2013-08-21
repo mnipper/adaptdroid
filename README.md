@@ -11,7 +11,7 @@ http://source.android.com/source/downloading.html
 
 After downloading source:
 ```
-curl -L https://raw.github.com/mnipper/adaptdroid/setup.sh | bash
+curl -L https://raw.github.com/mnipper/adaptdroid/master/setup.sh | bash
 ```
 
 Continue with these directions:
