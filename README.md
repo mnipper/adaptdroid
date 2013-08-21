@@ -16,3 +16,8 @@ curl -L https://raw.github.com/mnipper/adaptdroid/setup.sh | bash
 
 Continue with these directions:
 http://source.android.com/source/building-running.html
+
+# Current Modifications
+
+* Enable multi-user profiles
+* Disable ability to modify date and time
