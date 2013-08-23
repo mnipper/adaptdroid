@@ -2,7 +2,7 @@
 
 ---
 
-This is a modified Android system for research at (adaptlab)[http://sites.duke.edu/adaptlab/] of Duke University.
+This is a modified Android system for research at [adaptlab](http://sites.duke.edu/adaptlab/) of Duke University.
 
 # Usage
 
