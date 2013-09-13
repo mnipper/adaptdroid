@@ -22,7 +22,6 @@ http://source.android.com/source/building-running.html
 * Enable multi-user profiles
 * Enable restricted user profiles
 * Disable ability to modify date and time
-* Remove wifi from settings for restricted user profile (default enabled)
 * Remove bluetooth from settings for restricted user profile
 * Remove application settings from settings for restricted user profile
 * Remove security from settings for restricted user profile
